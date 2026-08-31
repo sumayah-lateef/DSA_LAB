@@ -1,0 +1,12 @@
+Original triplet representation:
+3 4 4
+0 1 5
+1 2 8
+2 0 3
+2 3 6
+Transposed triplet representation:
+4 3 4
+0 2 3
+1 0 5
+2 1 8
+3 2 6

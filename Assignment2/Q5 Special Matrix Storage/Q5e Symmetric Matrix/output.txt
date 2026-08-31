@@ -1,0 +1,3 @@
+Element at (2, 4): 80
+Space using normal 2D array: 16 elements
+Space using symmetric representation: 10 elements

@@ -1,0 +1,8 @@
+Diagonal matrix:
+10 0 0 0 
+0 20 0 0 
+0 0 30 0 
+0 0 0 40 
+Element at (3, 3): 30
+Space using normal 2D array: 16 elements
+Space using diagonal representation: 4 elements

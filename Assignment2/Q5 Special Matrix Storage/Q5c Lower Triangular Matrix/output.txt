@@ -1,0 +1,3 @@
+Element at (4, 2): 80
+Space using normal 2D array: 16 elements
+Space using lower triangular representation: 10 elements

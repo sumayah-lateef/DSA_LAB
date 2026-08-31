@@ -1,0 +1,2 @@
+Missing number using Linear Search: 5
+Missing number using Binary Search: 5

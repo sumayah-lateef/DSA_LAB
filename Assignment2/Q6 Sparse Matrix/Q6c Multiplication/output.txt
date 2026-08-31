@@ -1,0 +1,4 @@
+Product of sparse matrices in triplet form:
+2 2 2
+0 0 8
+1 1 15
