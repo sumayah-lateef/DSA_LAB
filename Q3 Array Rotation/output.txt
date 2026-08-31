@@ -1,0 +1,6 @@
+Enter number of elements: 
+Enter 5 elements:
+Enter K: 
+Original array: 1 2 3 4 5 
+Left rotation by 2: 3 4 5 1 2 
+Right rotation by 2: 4 5 1 2 3 

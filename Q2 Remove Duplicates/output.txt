@@ -1,0 +1,5 @@
+Enter number of elements: 
+Enter 10 elements:
+
+Original array: 10 20 20 30 40 40 50 50 50 60 
+Array after removing duplicates: 10 20 30 40 50 60 

@@ -1,0 +1,4 @@
+Enter rows and columns of first matrix: Enter elements of first matrix:
+Enter rows and columns of second matrix: Enter elements of second matrix:
+
+Matrix multiplication is not possible.
